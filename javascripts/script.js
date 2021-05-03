@@ -1,7 +1,7 @@
 (function($) {
 $(document).ready(function(){
   
-  //
+  // putting lines by the pre blocks
   
   $("pre").each(function(){
     var pre = $(this).text().split("\n");
@@ -51,4 +51,3 @@ $(document).ready(function(){
   })
 });
 })(jQuery)
-© 2021 GitHub, Inc.
