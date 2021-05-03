@@ -1,0 +1,22 @@
+<span id="a">SAVAGEDARK@Root</span>:<span id="b">~</span><span id="c">$</span>cat flag{SAVAGEDARK}.txt<br><br>
+
+<br>Hi, my name is SAVAGEDARK
+<p>15 Years Old, a Teen studied Security Enthusiast Focused on Web-Applications/Systms-Applications & Mobile Softwares Security,
+Developer Softwares & Open Source, interested To Open Hardwares Like a raspberry pi,
+Player Capture The Flag Challenges, I Speak C/c++,HTML,JS,VB,SQL, And Python.</p><br>
+<p>I am in middle school i will be going to high school in septmeber 2021<br>Actually i work with a group with frineds we make websites for us and apps <a href="ROASTION</a> is one of my progams 
+Made BY <Soul"> iam justing trying to learn to catch bugs online and learn to become a hacker <a href="https://hackerone.com/">HackerOne</a> and <a href="https://bugcrowd.com/">BugCrowd</a> & <a href="https://internetbugbounty.org/">The Internet Bug Bounty</a>.</p>
+<p>The following list contains some of the companies I have collaborated with, and they included me in their security  acknowledgements page for reporting valid security issues:</p><br><ul style="list-style-type:circle">
+<br>  <li>ROASTION: <a href="ask me in discord for the link"> (SMoOKER#9831)fan community made by soul and iam a part of it</a></li>
+<br>  <li>EDITING PLUGINS : <a href="in my github page"> plugins </a></li>
+<br>  <li>Custom Python IDE: <a href="in my github page">Python IDE</a></li>
+<br>  <li>Auto typer: <a href="in my github page">Auto Typer</a></li>
+</ul>
+<br>If you would like to get in touch with me, whether it be for tech support, a professional work, or to just say hello, feel free to contact me any time.
+<br>
+@Email : <a href="savagedarkyt@protonmail.com">SAVAGEDARK/a><br>
+Twitter: <a href="https://twitter.com/SAVAGEDARKXD">@SAVAGEDARKXD</a><br>
+Github: <a href="https://github.com/savagedarkyt</a><br>
+</p><p>
+<br>Regards, SAVAGEDARK</p>
+<br>By SAVAGEDARK. |

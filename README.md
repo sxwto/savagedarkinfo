@@ -1,1 +1,1 @@
-# savagedarkinfo.github.io
+# savagedark.github.io
